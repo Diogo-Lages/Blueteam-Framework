@@ -25,11 +25,11 @@ export default defineConfig({
   base: "/Blueteam-Framework",
   resolve: {
     alias: {
-      "@": path.resolve(__dirname, "client", "src"),
+      "@": path.resolve(__dirname, "src"),
       "@shared": path.resolve(__dirname, "shared"),
     },
   },
-  root: path.resolve(__dirname, "client"),
+  root: path.resolve(__dirname),
   build: {
     outDir: path.resolve(__dirname, "dist/public"),
     emptyOutDir: true,
