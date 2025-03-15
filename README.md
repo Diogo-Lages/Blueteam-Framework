@@ -5,11 +5,6 @@ The Blue Team Framework helps organize security tools into categories for easy a
 
 ---
 
-## Requirements
-- A modern web browser with JavaScript enabled.
-
----
-
 ## Features
 - **Organized Security Tools**: Security tools grouped into categories like Network Discovery, Vulnerability Management, Security Monitoring, Threat Intelligence, etc.
 - **Simulated Security Alerts**: A panel showing live, simulated security alerts and notifications.
