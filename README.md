@@ -10,7 +10,6 @@ The Blue Team Framework helps organize security tools into categories for easy a
 - **Simulated Security Alerts**: A panel showing live, simulated security alerts and notifications.
 - **Cyberpunk-Themed UI**: A visually striking interface with customizable backgrounds and neon accents.
 - **Drag-and-Drop Tool Management**: Easily rearrange tool sections based on workflow preferences.
-- **Responsive Design**: Works well on both desktop and mobile devices.
 - **Direct Documentation Access**: Quick links to official documentation for each tool.
 - **Tool Status Indicators**: Visual indicators showing whether security tools are active or inactive.
 
