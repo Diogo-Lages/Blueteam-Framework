@@ -1,54 +1,36 @@
 # Blue Team Framework
 
-A cyberpunk-themed Blue Team Framework application designed for security professionals and enthusiasts. The application provides an interactive tool management system with drag-and-drop functionality and responsive design.
+## Description
+The Blue Team Framework helps organize security tools into categories for easy access, so users can find and use the right tools for specific security tasks.
 
-![Blue Team Framework](preview.png)
+---
 
-## Features
+## Requirements
+- A modern web browser with JavaScript enabled.
 
-- 🛡️ Comprehensive security tool management
-- 🎯 Real-time security alerts simulation
-- 🎨 Cyberpunk-themed UI with customizable backgrounds
-- 🔄 Drag-and-drop section organization
-- 📱 Fully responsive design
+---
 
-## Technologies Used
+## Key Features
+- **Organized Security Tools**: Security tools grouped into categories like Network Discovery, Vulnerability Management, Security Monitoring, Threat Intelligence, etc.
+- **Simulated Security Alerts**: A panel showing live, simulated security alerts and notifications.
+- **Cyberpunk-Themed UI**: A visually striking interface with customizable backgrounds and neon accents.
+- **Drag-and-Drop Tool Management**: Easily rearrange tool sections based on workflow preferences.
+- **Responsive Design**: Works well on both desktop and mobile devices.
+- **Direct Documentation Access**: Quick links to official documentation for each tool.
+- **Tool Status Indicators**: Visual indicators showing whether security tools are active or inactive.
 
-- React.js
-- TypeScript
-- Tailwind CSS
-- Framer Motion
-- React Beautiful DnD
-- Shadcn UI Components
+---
 
-## Getting Started
+## Ethical Guidelines
+The Blue Team Framework is meant for legal and educational security use. Please follow these ethical guidelines:
 
-1. Clone the repository:
-```bash
-git clone https://github.com/DiogoPLages/blue-team-framework.git
-```
+- **Get Permission**: Always have explicit authorization before using security tools on networks or systems.
+- **Respect Privacy**: Handle discovered data carefully and follow privacy regulations.
+- **Defensive Use Only**: This framework is for defense, not for unauthorized or malicious activities.
+- **Stay Updated**: Keep up with best practices and legal changes in your area.
+- **Share Responsibly**: Share knowledge in a way that promotes security, not misuse.
 
-2. Install dependencies:
-```bash
-cd blue-team-framework
-npm install
-```
-
-3. Run the development server:
-```bash
-npm run dev
-```
-
-4. Open [http://localhost:5000](http://localhost:5000) in your browser.
-
-## Contributing
-
-Feel free to contribute to this project by creating issues or submitting pull requests.
+---
 
 ## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Author
-
-Diogo Lages
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
